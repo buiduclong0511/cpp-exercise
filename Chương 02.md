@@ -1,3 +1,5 @@
+## Bài tập chương 02
+
 #### Bài 1: Nhập vào 2 số `a` và `b`. Bạn hãy in ra màn hình tổng và hiệu của 2 số đó.
 
 Ví dụ:
