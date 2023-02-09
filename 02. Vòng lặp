@@ -1,0 +1,33 @@
+## Bài tập vòng lặp
+
+#### Bài 1: Nhập 1 số nguyên dương n. In ra màn hình giá trị của **S = 1 + 2 + 3 + ... + n**.
+
+Ví dụ:
+```
+n = 4
+S = 10
+```
+
+#### Bài 2: Nhập 1 số nguyên dương n. In ra màn hình giá trị của **S = 1^2 + 2^2 + 3^2 + ... + n^2**
+
+Ví dụ:
+```
+n = 4
+S = 30
+```
+
+#### Bài 3: Nhập 1 số nguyên dương n. In ra màn hình giai thừa **n!**.
+
+Ví dụ:
+```
+n = 3
+n! = 6
+```
+
+#### Bài 4: Nhập vào 1 số nguyên dương n. In ra màn hình các số chia hết cho 5 từ **1** đến **n**.
+
+Ví dụ:
+```
+n = 20
+5 10 15 20
+```
