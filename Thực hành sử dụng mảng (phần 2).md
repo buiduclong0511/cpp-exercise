@@ -1,0 +1,51 @@
+## Thực hành sử dụng mảng
+
+#### Bài 1: Viết chương trình nhập vào 2 số nguyên dương n và m (0 < n, m <= 10). Tạo mảng 2 chiều chứa các số nguyên có n hàng và m cột. Tính và in ra màn hình tổng các phần tử có trong mảng.
+
+Ví dụ:
+```
+n = 2
+m = 3
+Nhap mang:
+1 2 3
+4 5 6
+Tong cac phan tu trong mang la 21
+```
+
+---
+
+#### Bài 2: Viết chương trình nhập vào số nguyên dương n (0 < n <= 10). Tạo mảng 1 chiều có n phần tử là số nguyên và in ra màn hình phần tử có giá trị lớn nhất.
+
+Ví dụ:
+```
+n = 3
+Nhap mang: 1 3 2
+Gia tri lon nhat la 3
+```
+
+---
+
+#### Bài 3: Viết chương trình nhập vào 2 số nguyên dương n và m (0 < n, m <= 10). Tạo mảng 2 chiều chứa các số nguyên có n hàng và m cột. In ra màn hình các phần tử lớn nhất của các hàng.
+
+Ví dụ:
+```
+n = 2
+m = 3
+Nhap mang:
+1 2 3
+4 6 5
+Cac phan tu lon nhat la: 3 6
+```
+
+#### Bài 4: Viết chương trình nhập vào 2 số nguyên dương n và m (2 <= n, m <= 10). Tạo mảng 2 chiều chứa các số nguyên có n hàng và m cột. Tính tổng các giá trị biên của mảng vừa tạo.
+
+Ví dụ:
+```
+n = 3
+m = 3
+Nhap mang:
+1 2 3
+4 5 6
+7 8 9
+Tong cac gia tri bien la: 40
+```
