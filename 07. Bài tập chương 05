@@ -1,0 +1,43 @@
+## Bài tập chương 05
+#### Bài 1: Viết chương trình nhập vào 1 chuỗi gồm các ký tự từ a -> z và có thể chứa khoảng trắng. Hãy loại bỏ các khoảng trắng ở đầu và cuối chuỗi.
+
+Ví dụ:
+```
+Nhap chuoi:     f8 fullstack   
+Ket qua: f8 fullstack
+```
+
+---
+
+#### Bài 2: Viết chương trình nhập vào 1 chuỗi gồm các ký tự a -> z và có thể chứa khoảng trắng. Hãy loại bỏ các khoảng trắng thừa ở giữa các từ.
+
+Ví dụ:
+```
+Nhap chuoi: f8   fullstack
+Ket qua: f8 fullstack
+```
+
+---
+
+#### Bài 3: Viết chương trình nhập vào 1 chuỗi gồm các ký tự a -> z, A -> Z và có thể chứa khoảng trắng. Hãy viết hoa các chữ cái ở đầu mỗi từ, các chữ cái còn lại để ở dạng viết thường.
+
+Ví dụ:
+```
+Nhap chuoi: f8 fulLsTack
+Ket qua: F8 Fullstack
+```
+
+---
+
+#### Bài 4: Viết chương trình nhập vào 1 chuỗi gồm các ký tự a -> z, A -> Z và có thể chưa khoảng trắng. Hãy chuẩn hóa chuỗi đó.
+
+Gợi ý:
+- Loại bỏ khoảng trắng đầu cuối.
+- Loại bỏ khoảng trắng thừa ở giữa các từ.
+- Viết hoa chữ cái đầu, các chữ còn lại viết thường.
+
+Ví dụ:
+```
+Nhap chuoi:    bUI   duC   LONG 
+Ket qua: Bui Duc Long
+```
